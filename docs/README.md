@@ -1,2 +1,1 @@
-# SocialDJ
 This is SocialDJ!
